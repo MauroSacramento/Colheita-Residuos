@@ -25,11 +25,13 @@ Actualizando...</p>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML para estrutura básica
-- CSS (Flexbox e Grid para layout)
+- CSS
+- JavaScript
+- Node.js/Express
 
 ## 💻 Projeto
 
-O resultado foi uma página web leve, estilosa e didática, onde um pinguim simpático é exibido inteiramente com CSS, provando as possibilidades criativas e flexíveis da linguagem. Este projeto é um ótimo exemplo de como o CSS pode ser explorado para criar gráficos complexos e personagens lúdicos sem a necessidade de imagens externas.
+O resultado foi uma página web leve, estilosa e didática... 
 
 - [Acesse o projeto finalizado, online]
 
