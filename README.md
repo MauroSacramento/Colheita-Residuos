@@ -1,7 +1,7 @@
-<h1 align="center"> Penguín </h1>
+<h1 align="center"> Coleta-Resíduos </h1>
 
 <p align="center">
-O principal desafio foi a construção de um desenho coerente e simpático apenas com CSS. Este projeto demandou compreensão aprofundada de formas geométricas com CSS e uso criativo de bordas arredondadas e posições relativas para posicionar cada detalhe do pinguim de maneira harmoniosa.</p>
+Actualizando...</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ O principal desafio foi a construção de um desenho coerente e simpático apena
 <br>
 
 <p align="center">
-  <img alt="projeto Penguín" src="assets/penguin.png" width="80%">
+  <img alt="Landing-page ecoleta" src="" width="80%">
 </p>
 
 ## 🚀 Tecnologias
