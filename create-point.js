@@ -42,3 +42,14 @@ function getCities(event){
 }
 
 document.querySelector("select[name=uf]").addEventListener("change", getCities)
+
+// Seleção dos itens
+const itemsToCollect = document.querySelectorAll(".items-grid li")
+
+for (const item of itemsToCollect){
+    item.addEventListener("click", handleSelectedItem);
+}
+
+function handleSelectedItem(event){
+    console.log(event.target.dataset.id);
+}
