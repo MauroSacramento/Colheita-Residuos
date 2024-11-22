@@ -50,6 +50,19 @@ for (const item of itemsToCollect){
     item.addEventListener("click", handleSelectedItem);
 }
 
+let selectedItems = []
+
 function handleSelectedItem(event){
-    console.log(event.target.dataset.id);
+    const itemLi = event.target;
+
+    // Adicionar ou remover uma classe
+    itemLi.classList.toggle("selected");
+
+    // Verificar se existem itens selecionados, se sim
+    //Pegar os itens selecionados
+
+    //Se já estiver selecionado tirar da selecção
+    //Se não estiver selecionado, adicionar à selecção
+
+    // Actualizar o campo escondido com os itens selecionados
 }
